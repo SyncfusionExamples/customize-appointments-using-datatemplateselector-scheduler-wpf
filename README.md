@@ -1,2 +1,1 @@
-# customize-appointments-using-datatemplateselector-scheduler-wpf
-How to customize the appearance of appointments using DataTemplateSelector in WPF Scheduler (Calendar)
+**[View document in Syncfusion WPF Knowledge base](https://www.syncfusion.com/kb/12605/how-to-customize-the-appearance-of-appointments-using-datatemplateselector-in-wpf-scheduler)**
